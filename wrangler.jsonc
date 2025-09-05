@@ -1,5 +1,5 @@
 {
-  "name": "my-astro-app",
+  "name": "demo-astro-site",
   "compatibility_date": "2025-09-05",
   "assets": {
     "directory": "./dist"
